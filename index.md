@@ -18,10 +18,10 @@
 ### Contact Us
 BEhTA.lab.mu@gmail.com
 
--[Facebook]()
+-[Facebook](https://www.facebook.com/Behta-Lab-335215267116719/?modal=admin_todo_tour)
 
 -[Twitter](https://twitter.com/BEhTA_Lab)
 
 -[Linkedin]()
 
--[Instagram]()
+-[Instagram](https://www.instagram.com/behta_lab/)
