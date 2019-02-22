@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to BEhTA Lab at Marquette University
 
-You can use the [editor on GitHub](https://github.com/BEhTA/BEhTA.Lab/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  In 2017, Dr. Daniel Pinto became an assistant professor at Marquette Univeristy in the department of physical therapy, and brought his research projects with him. Over the past year and a half, Dr. Pinto has put work into various projects and studies in order to examine physical therapy techniques, economy around healthcare, behaviors, and much more. He has also recieved funding for various projects and has had presentations throughout. 
+  Under Dr. Pinto, we have Ms. Marissa Lovell who is the research coordinator, and we are also made of student assistant researchers from the physical therapy program. 
+   Take a look at our current projects going on and see what we have been up to.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ongoing Projects
+-[Clinical Instructor Messaging]()
+-[Academic Dishonesty Project]()
+-[PAAPAYA]()
+-[Network Meta Analysis, Regarding Knee Replacement]()
 
-### Markdown
+### [Who We Are]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact Us
+BEhTA.lab.mu@gmail.com
 
-```markdown
-Syntax highlighted code block
+-[Facebook]()
 
-# Header 1
-## Header 2
-### Header 3
+-[Twitter]()
 
-- Bulleted
-- List
+-[Linkedin]()
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BEhTA/BEhTA.Lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-[Instagram]()
