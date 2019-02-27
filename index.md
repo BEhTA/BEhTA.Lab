@@ -14,9 +14,10 @@
 -[Network Meta Analysis, Regarding Knee Replacement](https://behta.github.io/Network-Meta-Analysis/)
 
 
-### [Who We Are](https://behta.github.io/Who-we-are/)
+## [Who We Are](https://behta.github.io/Who-we-are/)
 
-### [Frequently Asked Questions](https://behta.github.io/FAQ/)
+
+## [Frequently Asked Questions](https://behta.github.io/FAQ/)
 
 
 ### Contact Us
