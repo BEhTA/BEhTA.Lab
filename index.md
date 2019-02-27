@@ -24,6 +24,6 @@ BEhTA.lab.mu@gmail.com
 
 -[Twitter](https://twitter.com/BEhTA_Lab)
 
--[Linkedin]()
+-[Linkedin](https://www.linkedin.com/in/behta-lab-957408180/)
 
 -[Instagram](https://www.instagram.com/behta_lab/)
