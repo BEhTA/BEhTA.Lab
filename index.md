@@ -2,7 +2,7 @@
 
   In 2017, Dr. Daniel Pinto became an assistant professor at Marquette Univeristy in the department of physical therapy, and brought his research projects with him. Over the past year and a half, Dr. Pinto has put work into various projects and studies in order to examine physical therapy techniques, economy around healthcare, behaviors, and much more. He has also recieved funding for various projects and has had presentations throughout. 
   
-  Under Dr. Pinto, we have Ms. Marissa Lovell who is the research coordinator, and we also have a team of student assistant researchers from the physical therapy program. 
+  Our team consists of Dr. Pinto as the head researcher, Marissa Lovell as our research coordinator, and our student research assistants. 
   
    Take a look at our current projects going on and see what we have been up to!
    
